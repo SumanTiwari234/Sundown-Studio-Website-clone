@@ -27,12 +27,15 @@ It was built to apply theoretical knowledge to real-world UI design and to gain 
      
 ## 💻 How to Run 
 
-  1. Clone the repository:
-   ```bash
-   git clone https://github.com/SumanTiwari234/Sundown-Studio-Website-clone.git
-  2. Open the project folder
-  3. Open index.html in your browser
+1. Clone the repository:
 
+```bash
+git clone https://github.com/SumanTiwari234/Sundown-Studio-Website-clone.git
+```
+
+2. Open the project folder  
+3. Open `index.html` in your browser
+   
 ## 📸 Screenshots
 
 ![Homepage](./screenshots/home.png)
