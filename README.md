@@ -33,5 +33,11 @@ It was built to apply theoretical knowledge to real-world UI design and to gain 
   2. Open the project folder
   3. Open index.html in your browser
 
+## 📸 Screenshots
+
+![Homepage](./screenshots/home.png)
+![Middle_section](./screenshots/mid_section.png)
+![Middle_section(2)](./screenshots/mid_section_(ii).png)
+![Swiper_Portion](./screenshots/swiper_portion.png)
 
 
