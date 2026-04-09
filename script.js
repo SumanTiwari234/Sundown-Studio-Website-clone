@@ -3,13 +3,6 @@ const scroll = new LocomotiveScroll({
     smooth: true
 });
 
-window.addEventListener("load", () => {
-    locoScroll.update();
-});
-
-setTimeout(() => {
-    locoScroll.update();
-}, 1500);
 
 var elemc = document.querySelector("#elem-con")
 var fixImage = document.querySelector("#fixed-image")
