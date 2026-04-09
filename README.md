@@ -37,7 +37,7 @@ It was built to apply theoretical knowledge to real-world UI design and to gain 
 
 ![Homepage](./screenshots/home.png)
 ![Middle_section](./screenshots/mid_section.png)
-![Middle_section(2)](./screenshots/mid_section_(ii).png)
+![Middle_section2](./screenshots/mid_section2.png)
 ![Swiper_Portion](./screenshots/swiper_portion.png)
 
 
